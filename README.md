@@ -9,7 +9,7 @@ To get started with repo you might have to clone or download the repository just
 
 ```bash
 
-git clone https://github.com/Kalebu/ascii-encryption-python
+git clone https://github.com/Chetanjorwal3/Encryption-Ascii
 
 ```
 
